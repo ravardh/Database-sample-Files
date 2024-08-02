@@ -1,0 +1,92 @@
+﻿CustomerID,Company Name,Costumer Name,City,PostalCode,Country
+1,Alfreds Futterkiste,Maria Anders,Berlin,12209,Germany
+2,Ana Trujillo Emparedados y helados,Ana Trujillo,Mexico D.F.,5021,Mexico
+3,Antonio Moreno Taqueria,Antonio Moreno,Mexico D.F.,5023,Mexico
+4,Around the Horn,Thomas Hardy,London,34626,UK
+5,Berglunds snabbkp,Christina Berglund,Lulea,95822,Sweden
+6,Blauer See Delikatessen,Hanna Moos,Mannheim,68306,Germany
+7,Blondel pere et fils,Frederique Citeaux,Strasbourg,67000,France
+8,BOlido Comidas preparadas,Martin Sommer,Madrid,28023,Spain
+9,Bon app,Laurence Lebihans,Marseille,13008,France
+10,Bottom-Dollar Marketse,Elizabeth Lincoln,Tsawassen,254685,Canada
+11,Bs Beverages,Victoria Ashworth,London,13546,UK
+12,Cactus Comidas para llevar,Patricio Simpson,Buenos Aires,1010,Argentina
+13,Centro comercial Moctezuma,Francisco Chang,Mexico D.F.,5022,Mexico
+14,Chop-suey Chinese,Yang Wang,Bern,3012,Switzerland
+15,Comercio Mineiro,Pedro Afonso,Sao Paulo,6565,Brazil
+16,Consolidated Holdings,Elizabeth Brown,London,541684,UK
+17,Drachenblut Delikatessend,Sven Ottlieb,Aachen,52066,Germany
+18,Du monde entier,Janine Labrune,Nantes,44000,France
+19,Eastern Connection,Ann Devon,London,546,UK
+20,Ernst Handel,Roland Mendel,Graz,8010,Austria
+21,Familia Arquibaldo,Aria Cruz,Sao Paulo,4984,Brazil
+22,FISSA Fabrica Inter. Salchichas S.A.,Diego Roel,Madrid,28034,Spain
+23,Folies gourmandes,Martine Rance,Lille,59000,France
+24,Folk och fa HB,Maria Larsson,Bracke,96825,Sweden
+25,Frankenversand,Peter Franken,Mnchen,80805,Germany
+26,France restauration,Carine Schmitt,Nantes,44000,France
+27,Franchi S.p.A.,Paolo Accorti,Torino,10100,Italy
+28,Furia Bacalhau e Frutos do Mar,Lino Rodriguez,Lisboa,1675,Portugal
+29,Galeria del gastrOnomo,Eduardo Saavedra,Barcelona,8022,Spain
+30,Godos Cocina Tipica,Jose Pedro Freyre,Sevilla,41101,Spain
+31,Gourmet Lanchonetes,Andre Fonseca,Campinas,76951,Brazil
+32,Great Lakes Food Market,Howard Snyder,Eugene,97403,USA
+33,GROSELLA-Restaurante,Manuel Pereira,Caracas,1081,Venezuela
+34,Hanari Carnes,Mario Pontes,Rio de Janeiro,5454,Brazil
+35,HILARION-Abastos,Carlos Hernandez,San CristObal,5022,Venezuela
+36,Hungry Coyote Import Store,Yoshi Latimer,Elgin,97827,USA
+37,Hungry Owl All-Night Grocers,Patricia McKenna,Cork,18845,Ireland
+38,Island Trading,Helen Bennett,Cowes,84624,UK
+39,Koniglich Essen,Philip Cramer,Brandenburg,14776,Germany
+40,La corne dabondance,Daniel Tonini,Versailles,78000,France
+41,La maison dAsie,Annette Roulet,Toulouse,31000,France
+42,Laughing Bacchus Wine Cellars,Yoshi Tannamuri,Vancouver,41562,Canada
+43,Lazy K Kountry Store,John Steel,Walla Walla,99362,USA
+44,Lehmanns Marktstand,Renate Messner,Frankfurt a.M.,60528,Germany
+45,Lets Stop N Shop,Jaime Yorres,San Francisco,94117,USA
+46,LILA-Supermercado,Carlos Gonzalez,Barquisimeto,3508,Venezuela
+47,LINO-Delicateses,Felipe Izquierdo,I. de Margarita,4980,Venezuela
+48,Lonesome Pine Restaurant,Fran Wilson,Portland,97219,USA
+49,Magazzini Alimentari Riuniti,Giovanni Rovelli,Bergamo,24100,Italy
+50,Maison Dewey,Catherine Dewey,Bruxelles,21365,Belgium
+51,Mere Paillarde,Jean Fresniere,Montreal,69162,Canada
+52,Morgenstern Gesundkost,Alexander Feuer,Leipzig,4179,Germany
+53,North/South,Simon Crowther,London,196215,UK
+54,Oceano Atlantico Ltda.,Yvonne Moncada,Buenos Aires,1010,Argentina
+55,Old World Delicatessen,Rene Phillips,Anchorage,99508,USA
+56,Ottilies Kaseladen,Henriette Pfalzheim,Koln,50739,Germany
+57,Paris specialites,Marie Bertrand,Paris,75012,France
+58,Pericles Comidas clasicas,Guillermo Fernandez,Mexico D.F.,5033,Mexico
+59,Piccolo und mehr,Georg Pipps,Salzburg,5020,Austria
+60,Princesa Isabel Vinhoss,Isabel de Castro,Lisboa,1756,Portugal
+61,Que Delicia,Bernardo Batista,Rio de Janeiro,816466,Brazil
+62,Queen Cozinha,Lucia Carvalho,Sao Paulo,851306,Brazil
+63,QUICK-Stop,Horst Kloss,Cunewalde,1307,Germany
+64,Rancho grande,Sergio Gutierrez,Buenos Aires,1010,Argentina
+65,Rattlesnake Canyon Grocery,Paula Wilson,Albuquerque,87110,USA
+66,Reggiani Caseifici,Maurizio Moroni,Reggio Emilia,42100,Italy
+67,Ricardo Adocicados,Janete Limeira,Rio de Janeiro,84646,Brazil
+68,Richter Supermarkt,Michael Holz,Geneve,1203,Switzerland
+69,Romero y tomillo,Alejandra Camino,Madrid,28001,Spain
+70,Sante Gourmet,Jonas Bergulfsen,Stavern,4110,Norway
+71,Save-a-lot Markets,Jose Pavarotti,Boise,83720,USA
+72,Seven Seas Imports,Hari Kumar,London,85114,UK
+73,Simons bistro,Jytte Petersen,Kbenhavn,1734,Denmark
+74,Specialites du monde,Dominique Perrier,Paris,75016,France
+75,Split Rail Beer & Ale,Art Braunschweiger,Lander,82520,USA
+76,Supremes delices,Pascale Cartrain,Charleroi,21564,Belgium
+77,The Big Cheese,Liz Nixon,Portland,97201,USA
+78,The Cracker Box,Liu Wong,Butte,59801,USA
+79,Toms Spezialitaten,Karin Josephs,Münster,44087,Germany
+80,Tortuga Restaurante,Miguel Angel Paolino,Mexico D.F.,5033,Mexico
+81,Tradicao Hipermercados,Anabela Domingues,Sao Paulo,51398,Brazil
+82,Trails Head Gourmet Provisioners,Helvetius Nagy,Kirkland,98034,USA
+83,Vaffeljernet,Palle Ibsen,rhus,8200,Denmark
+84,Victuailles en stock,Mary Saveley,Lyon,69004,France
+85,Vins et alcools Chevalier,Paul Henriot,Reims,51100,France
+86,Die Wandernde Kuh,Rita Müller,Stuttgart,70563,Germany
+87,Wartian Herkku,Pirkko Koskitalo,Oulu,90110,Finland
+88,Wellington Importadora,Paula Parente,Resende,51849,Brazil
+89,White Clover Markets,Karl Jablonski,Seattle,98128,USA
+90,Wilman Kala,Matti Karttunen,Helsinki,21240,Finland
+91,Wolski,Zbyszek,Walla,56189,Poland
